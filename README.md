@@ -34,6 +34,9 @@ Quivr, your second brain, utilizes the power of GenerativeAI to store and retrie
 
 ## Rex Exemples 
 
+* https://youtu.be/rblS1fJ5jzU?si=_ooodpEp6KdKmA8J
+
+- online: https://quivr.app
 - https://powerdrill.ai/datasets
 
   
